@@ -1,0 +1,58 @@
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.csprojAssemblyReference.cache
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.csproj.CoreCompileInputs.cache
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll.config
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.pdb
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.dll
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.SqlServer.dll
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.xml
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.SqlServer.xml
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.csproj.CopyComplete
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.dll
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.pdb
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.Migrations.InitialMigration.resources
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.csproj.GenerateResource.cache
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Newtonsoft.Json.dll
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Newtonsoft.Json.xml
+X:\Dhrumit\Gateway Group of Companies\Trainee Assignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.Migrations.DiscardingMinlengthValidation.resources
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll.config
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\DatabaseModels.pdb
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\EntityFramework.dll
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\EntityFramework.SqlServer.dll
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\Newtonsoft.Json.dll
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\EntityFramework.xml
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\EntityFramework.SqlServer.xml
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\bin\Debug\Newtonsoft.Json.xml
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.csprojAssemblyReference.cache
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.Migrations.InitialMigration.resources
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.Migrations.DiscardingMinlengthValidation.resources
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.csproj.GenerateResource.cache
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.csproj.CoreCompileInputs.cache
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.csproj.CopyComplete
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.dll
+X:\Dhrumit\Gateway Group of Companies\TGCAssignments\WebAPIFinalAssignment\DatabaseModels\obj\Debug\DatabaseModels.pdb
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll.config
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.pdb
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Newtonsoft.Json.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.xml
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Newtonsoft.Json.xml
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.csprojResolveAssemblyReference.cache
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.Migrations.InitialMigration.resources
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.Migrations.DiscardingMinlengthValidation.resources
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.csproj.GenerateResource.Cache
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\obj\Debug\DatabaseModels.pdb
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Microsoft.Owin.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Microsoft.Owin.Security.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Owin.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Microsoft.Owin.xml
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Microsoft.Owin.Security.xml
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll.CodeAnalysisLog.xml
+D:\WebAPIFinalAssignment\HotelManagementAssignment\DatabaseModels\bin\Debug\DatabaseModels.dll.lastcodeanalysissucceeded
